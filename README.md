@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This example project shows a besic stucture to use react-redux in a React application. 
 
 ## Available Scripts
 
